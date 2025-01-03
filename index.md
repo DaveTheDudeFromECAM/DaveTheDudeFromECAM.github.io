@@ -1,6 +1,4 @@
-# 💖 Welcome to My Website!
-
-This is a simple website created using Markdown files and hosted on **GitHub Pages**.
+# 💖 Welcome to My Website Yasmina!
 
 ## 💡 Animated Glowing Heart 💡
 
